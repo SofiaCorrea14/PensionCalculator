@@ -50,5 +50,6 @@ Cuando se abra la ventana, selecciona el ícono de "Restaurar" (un cuadrado sobr
 Introduce la información requerida como edad, salario, semanas laboradas, etc.
 Haz clic en "Calcular" para obtener la estimación de tu pensión.
 Los resultados se mostrarán en una nueva ventana.
+
 5. Cerrar la Aplicación:
 Una vez obtenidos los resultados, puedes cerrar la aplicación como cualquier otra.
