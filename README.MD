@@ -35,10 +35,15 @@ Ubicación del Ejecutable:En la carpeta extraída, localiza el archivo ejecutabl
 
 3. Para ejecutar :
 A.Abre la terminal.
+
 B..Navega al directorio usando cd …
+
 C..Crea una carpeta usando el comando mkdir ~/Desktop/Proyectos (Proyecto será el nombre de la carpeta, este puede tener el nombre que desees y así mismo esta carpeta estará guardada predeteminadamente en el escritorio), este será el directorio donde clonaremos nuestro proyecto.
+
 D.. Utiliza este comando para clonar el repositorio: git clone https://github.com/SofiaCorrea14/PensionCalculator.git
+
 E.. A continuación ingresa el comando cd PensionCalculator y posteriormente cd CalculadoraPensional
+
 D.. Por último ejecuta el comando winpty python main_console.py(Si estás desde Git Bash) o python main_console.py (Si estás desde powershell)
 
 Ejecución desde visual estudio :
