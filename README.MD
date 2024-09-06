@@ -34,6 +34,7 @@ Ubicación del Ejecutable:En la carpeta extraída, localiza el archivo ejecutabl
 
 
 3. Para ejecutar :
+
 A..Abre la terminal.
 
 B..Navega al directorio usando cd …
